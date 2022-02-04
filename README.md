@@ -11,3 +11,4 @@ I'm on the demo branch!
 I'm making a change as nshown, which is my usual github handle.
 
 This will be a conflicting piece of code.
+I deleted that line, but it won't be a conflict.
