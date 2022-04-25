@@ -5,3 +5,5 @@ I'm showing students how to setup repositories in GitHub.  Test nate's contribut
 I'm adding something on the new branch
 
 I'm adding some code to the readme as Nathan.
+
+I'm adding some different code as test-nate to conflict with the other code that was added.
