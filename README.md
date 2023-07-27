@@ -11,3 +11,5 @@ I'm adding some different code as test-nate to conflict with the other code that
 Adding new text from new feature branch.
 
 Making change on new branch to illustrate Pull Request
+
+Minor change.
