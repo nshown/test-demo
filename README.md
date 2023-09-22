@@ -7,3 +7,5 @@ Test Nate add some conflicting code to the README.
 Making a local commit.
 
 We want to add some code without knowing what the other changes are.
+
+Adding some text as Test Nate that will cause a conflict.
