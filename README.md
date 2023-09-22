@@ -5,3 +5,5 @@ I'm showing students how to setup repositories in GitHub.  Test nate's contribut
 Test Nate add some conflicting code to the README.
 
 Making a local commit.
+
+Adding some text as Test Nate that will cause a conflict.
