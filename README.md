@@ -9,3 +9,5 @@ Making a local commit.
 We want to add some code without knowing what the other changes are.
 
 Adding some text as Test Nate that will cause a conflict.
+
+Adding some info on the main branch.
